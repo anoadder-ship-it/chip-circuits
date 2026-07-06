@@ -107,6 +107,10 @@ console.log(result.matched, result.score.toString()); // true, "98"
 | [Supply Chain Darkpool](https://github.com/anoadder-ship-it/supply-chain-circuits) | Encrypted inventory + carbon credits |
 | [arcium-darkpool-sdk](https://www.npmjs.com/package/arcium-darkpool-sdk) | TypeScript SDK for all four darkpools |
 
+## Live demo
+
+**[Try it now](https://anoadder-ship-it.github.io/darkpool-demo-)** — Connect Phantom wallet and run real encrypted computations on Solana devnet.
+
 ## License
 
 MIT
