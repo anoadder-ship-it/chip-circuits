@@ -1,5 +1,8 @@
 # Chip Marketplace Darkpool
 
+> Onderdeel van de **Darkpool Suite** — zie [darkpool-template](https://github.com/anoadder-ship-it/darkpool-template) voor het volledige overzicht, alle vier darkpools, en de multisig-upgrade-procedure.
+
+
 A privacy-preserving marketplace for semiconductors and AI hardware on Solana and [Arcium](https://arcium.com) MPC. Match GPU and AI accelerator orders without revealing inventory, pricing, export control information, or supply chain strategy.
 
 **Program:** [6xLjbo4yfc5j2CMu69DkycTJrGZttHzeqieXf2NPvu8o](https://explorer.solana.com/address/6xLjbo4yfc5j2CMu69DkycTJrGZttHzeqieXf2NPvu8o?cluster=devnet)  
